@@ -1,10 +1,10 @@
 {
-  "name": "Esther Bot",
-  "description": "Esther, bot.",
-  "keywords": ["esther", "bot", "express"],
-  "website": "https://estherbot.com",
-  "repository": "https://github.com/esthercrawford/smooch-bot-example",
-  "logo": "http://www.estherbot.com/wp-content/uploads/2016/03/EstherBot-photo.png",
+  "name": "Manuel Pinto - The BOT",
+  "description": "Manuel PInto - The BOT",
+  "keywords": ["manuel", "pinto", "bot"],
+  "website": "http://manuelpinto.in",
+  "repository": "https://github.com/StaticBlaze/Manuel-Pinto-The-BOT",
+  "logo": "http://manuelpinto.in/images/work(manuelpinto-bot).jpg",
   "env": {
     "SMOOCH_APP_TOKEN": {
       "description": "Your Smooch app token which is used to initialize the web widget.",
