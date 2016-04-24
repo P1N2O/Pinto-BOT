@@ -1,8 +1,8 @@
 {
-  "name": "smooch-bot-example",
+  "name": "Manuel Pinto - The BOT",
   "version": "1.0.0",
-  "description": "Smooch Bot Example Apps",
-  "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
+  "description": "Manuel Pinto - The BOT",
+  "author": "Manuel Pinto <m.pinto@live.in> (http://manuelpinto.in)",
   "scripts": {
     "start": "node heroku"
   },
