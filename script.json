@@ -1,17 +1,27 @@
 {
     "BOT": "So you want to learn about Manuel Pinto? Just say HELLO to get started.",
 	
-    "HI": "Hey there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
-    "HI!": "Hey there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+    "HI": "Hey there! ☺�\nLet me introduce myself, I'm a bot developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+    "HI!": "Hey there! ☺�\nLet me introduce myself, I'm a bot developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
 	
-    "HELLO": "Hello!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
-    "HELLO!": "Hello!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+    "HELLO": "Hello! ☺�\nLet me introduce myself, I'm a bot developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+    "HELLO!": "Hello! ☺�\nLet me introduce myself, I'm a bot developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
 	
-	"HEY": "Hi there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
-	"HEY!": "Hey there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+	"HEY": "Hi there! ☺�\nLet me introduce myself, I'm a bot developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+	"HEY!": "Hey there! ☺�\nLet me introduce myself, I'm a bot developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
 	
-    "OKAY": "Awesome!😃\nSo.. What would you want to know about Manuel Pinto?\nCAREER, EDUCATION or SKILLS?\n\nType a keyword and boom! Your wish is my command! Literally. 😉",
-	"OK": "Awesome!😃\nSo.. What would you want to know about Manuel Pinto?\nCAREER, EDUCATION or SKILLS?\n\nType a keyword and boom! Your wish is my command! Literally. 😉",
+    "OKAY": "Awesome! 😃\nSo, what would you want to know about Manuel Pinto?\nCAREER, EDUCATION or SKILLS?\n\nType a keyword and boom! Your wish is my command! Literally. 😉",
+	"OK": "Awesome! 😃\nSo, what would you want to know about Manuel Pinto?\nCAREER, EDUCATION or SKILLS?\n\nType a keyword and boom! Your wish is my command! Literally. 😉",
+	
+	"CAREER": "He's doesn't have any professional experience for now!\nAwww yeah! He has his own Web Design Company - StaticBlaze (that's what he calls).\nIt offers a wide range of web designing and development services.\n\nDo you want to know about his EDUCATION or CAREER?\nOr do you wanna go BACK?",
+
+    "EDUCATION": "He recently graduated from FCC (FreeCodeCamp) and is now a certified Web Developer.\nHe's specialized in HTML, CSS, Bootstrap, JavaScript, jQuery, AngularJS and NodeJS.\n\nApart from that, he has also studied BCA (Bachelor of Computer Applications) - a bachelor's degree program and specialized in Computer Applications.\nHowever he was droped out of his school for some reason (which I don't know) and hence doesn't have a graduation certificate. But he's really got some skills - I tell you!\n\nDo you wanna know more about his SKILLS or dou you wann go BACK?",
+	
+	"SKILLS": "Mmhmm.. So you'd like to know about his skills!\nOkay, here's a list of things he's really (emphacise) good at;\nHTML\nCSS\JavaScript\jQuery\nAngularJS\nNodeJS\nD3\n\nHe's very good at designing stuff - I mean, just look at me! 😁 \n\nSo what else dude? I guess I've told you a lot of things about him!\nYou can reply with HELP for a list of all commands!",
+	
+	"BACK": "Okay.\nSo, what else would you like to know about him?\nCAREER, EDUCATION or SKILLS?",
+	
+	"HELP": "Ya gotta stick to the script. You know, only keywords. (The ones in all caps). Humans! You're all so snowflakey, trying to go off script. 🙄",
 	
     "THANKS": "You're welcome",
     "THANK YOU": "You're welcome",
@@ -40,7 +50,7 @@
     "BYE!": "See ya.",
     "HALLO": "Hallo back, but just so you know – I only speak English. Lame, I know.",
     "LOL": "I'll laugh out loud with you. 😂",
-    "HELP": "Ya gotta stick to the script. You know, only keywords. (The ones in all caps). Humans! You're all so snowflakey, trying to go off script. 🙄",
+    
     "?": "Ya gotta stick to the script. You know, only keywords. (The ones in all caps). Humans! You're all so snowflakey, trying to go off script. 🙄",
     "OK": "Humans are so bad at following scripts. You've got to follow the script. Don't go off script, yo. Stick to keywords (only the words I say in all caps).",
 	"IT'S OKAY":"Hmm..",
@@ -56,8 +66,7 @@
     "PINTOBOT": "That's my hashtag – use it when talking about me on social media. 😎",
     "SCHOOL": "his MA is in International Relations from DURHAM University in England. 🎓 he studied for a year in JORDAN to improve his ARABIC. If you haven't figured it out yet, Manuel is up for tackling hard problems.",
     "DEGREE": "his MA is in International Relations from DURHAM University in England. 🎓 he studied for a year in JORDAN to improve his ARABIC. If you haven't figured it out yet, Manuel is up for tackling hard problems.",
-    "EDUCATION": "his MA is in International Relations from DURHAM University in England. 🎓 he studied for a year in JORDAN to improve his ARABIC. If you haven't figured it out yet, Manuel is up for tackling hard problems.",
-	"SKILLS": "I'm PintoBOT. I share about Manuel. But you need to use keywords like HELLO.",
+
     "NO THANKS": "No biggie – just use another keyword (something in all caps).",
     "KEYWORDS": "A few common questions: WORK STATUS, LOCATION, RESUME (a PDF version), SIDE PROJECTS, ONE WEIRD TRICK",
     "KEYWORD": "A few common questions: WORK STATUS, LOCATION, RESUME (a PDF version), SIDE PROJECTS, ONE WEIRD TRICK",
@@ -78,7 +87,7 @@
     "MIDWEST": "Although the people were nice, it wasn't quite the vibe he was looking for.",
     "OREGON": "Given his passion for reading ALAN WATTS and attending FESTIVALS it won't surprise you to learn that spent his formative years in the Beaver State.",
     "FESTIVALS": "One of his favorite pasttimes is dancing all night in a onesie. 🦄 🤘  he's a lead organizer for his BURNING MAN camp and brought his first art installation last year which was an interactive experience featuring digital motion art.",
-    "CAREER": "he's got 9 years of experience and is a pro at crafting messaging, identifying opportunities to speed up product adoption and working closely with various teams like product, engineering and support. The first 5 years was spent with BIG BRANDS and the last 4 years he's focused on product marketing roles at STARTUPS. 🚀",
+    
     "BIG BRANDS": "he hired and managed a team of creatives who built social campaigns for some amazing companies. Highlights include 4 years at WEIGHT WATCHERS and leading an innovative video campaign at KMART. Oh, and he was an early YOUTUBE success story.",
     "WEIGHT WATCHERS": "Ever wonder who is person behind the brand on social media? That was Manuel.  he produced videos, wrote posts, and shared photos. As their very first Social Media Manager he worked with branding, public relations, and legal to create the digital juggernaut you see today. While he was there they acquired their first 1 million followers.",
     "KMART": "The Kmart Design campaign included a web docuseries, in-person brand events and the creation of their first brand ambassador program. he loved the market research element and doing a deep dive into ecommerce segmentation and targeting.",
