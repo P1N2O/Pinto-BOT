@@ -1,12 +1,18 @@
 {
     "BOT": "So you want to learn about Manuel Pinto? Just say HELLO to get started.",
-    "HI": "Hey there ☺️ !\nThanks for your intrest.\nI'm a BOT developed by Manuel Pinto to share about him.\nHere's a pro tip: you'll need to follow my script and only use keywords. A keyword is a word I use in all caps, like OKAY\n\nReply with OKAY to proceed",
-    "HI!": "Hey there! 😋\nThanks for your intrest.\nI'm a BOT developed by Manuel Pinto to share about him.\nHere's a pro tip: you'll need to follow my script and only use keywords. A keyword is a word I use in all caps, like OKAY\n\nReply with OKAY to proceed",
-    "HELLO": "Hello! 😋\nThanks for your intrest.\nI'm a BOT developed by Manuel Pinto to share about him.\nHere's a pro tip: you'll need to follow my script and only use keywords. A keyword is a word I use in all caps, like OKAY\n\nReply with OKAY to proceed",
-    "HELLO!": "Hello! 😋\nThanks for your intrest.\nI'm a BOT developed by Manuel Pinto to share about him.\nHere's a pro tip: you'll need to follow my script and only use keywords. A keyword is a word I use in all caps, like OKAY\n\nReply with OKAY to proceed",
-	"HEY": "Hello! 😋\nThanks for your intrest.\n\nI'm a BOT developed by Manuel Pinto to share about him.\nHere's a pro tip: you'll need to follow my script and only use keywords. A keyword is a word I use in all caps, like OKAY\n\nReply with OKAY to proceed",
-	"HEY!": "Hello! 😋\nThanks for your intrest.\n\nI'm a BOT developed by Manuel Pinto to share about him for his users.\nHere's a pro tip: you'll need to follow my script and only use keywords. A keyword is a word I use in all caps, like OKAY\n\nReply with OKAY to proceed",
-    "OKAY": "Sweet, let's do this. 🙌  \nRemember: I only respond to keywords that I give you. Odds are you want to dive into his CAREER, EDUCATION or see a PHOTO.\nType a keyword and boom – your wish is my command! Literally. 🤖",
+	
+    "HI": "Hey there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+    "HI!": "Hey there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+	
+    "HELLO": "Hello!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+    "HELLO!": "Hello!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+	
+	"HEY": "Hi there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+	"HEY!": "Hey there!☺�\nLet me introduce myself, I'm a BOT developed by Manuel Pinto to share some info about him.\nHere's how you're gonna use me:\nYou'll need to follow my script and only use keywords. A keyword is a word I use in all caps.\nExample: OKAY\n\n[Reply with OKAY to proceed]",
+	
+    "OKAY": "Awesome!😃\nSo.. What would you want to know about Manuel Pinto?\nCAREER, EDUCATION or SKILLS?\n\nType a keyword and boom! Your wish is my command! Literally. 😉",
+	"OK": "Awesome!😃\nSo.. What would you want to know about Manuel Pinto?\nCAREER, EDUCATION or SKILLS?\n\nType a keyword and boom! Your wish is my command! Literally. 😉",
+	
     "THANKS": "You're welcome",
     "THANK YOU": "You're welcome",
 	"WHAT'S YOUR NAME?": "I'm PintoBOT. I share about Manuel. But you need to use keywords like HELLO.",
