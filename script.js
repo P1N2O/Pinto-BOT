@@ -5,6 +5,12 @@ const Script = require('smooch-bot').Script;
 
 const scriptRules = require('./script.json');
 
+function wait(ms) {
+    return new Promise((resolve) => {
+        setTimeout(resolve, ms);
+    });
+}
+
 module.exports = new Script({
     processing: {
         //prompt: (bot) => bot.say('Beep boop...'),
@@ -13,7 +19,11 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
+<<<<<<< HEAD
             return bot.say('So you want to learn about Manuel Pinto? Just say HELLO to get started.')
+=======
+            return bot.say('Get started by saying BOT.')
+>>>>>>> refs/remotes/esthercrawford/master
                 .then(() => 'speak');
         }
     },
@@ -44,28 +54,26 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
+<<<<<<< HEAD
                     return bot.say(`Oops! I didn't understand that – I can only respond to keywords (a word I've said in all caps).`).then(() => 'speak');
+=======
+                    return bot.say(`So, I'm good at structured conversations but stickers, emoji and sentences still confuse me. Say 'more' to chat about something else.`).then(() => 'speak');
+>>>>>>> refs/remotes/esthercrawford/master
                 }
 
                 var response = scriptRules[upperText];
-                var lines = response.split(/(<img src=\'[^>]*\'\/>)/);
+                var lines = response.split('\n');
 
                 var p = Promise.resolve();
                 _.each(lines, function(line) {
                     line = line.trim();
-                    if (!line.startsWith("<")) {
-                        p = p.then(function() {
+                    p = p.then(function() {
+                        console.log(line);
+                        return wait(50).then(function() {
                             return bot.say(line);
                         });
-                    } else {
-                        // p = p.then(function() {
-                        //     var start = line.indexOf("'") + 1;
-                        //     var end = line.lastIndexOf("'");
-                        //     var imageFile = line.substring(start, end);
-                        //     return bot.sendImage(imageFile);
-                        // });
-                    }
-                })
+                    });
+                });
 
                 return p.then(() => 'speak');
             }
