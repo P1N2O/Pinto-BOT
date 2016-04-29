@@ -19,11 +19,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-<<<<<<< HEAD
-            return bot.say('So you want to learn about Manuel Pinto? Just say HELLO to get started.')
-=======
             return bot.say('Get started by saying BOT.')
->>>>>>> refs/remotes/esthercrawford/master
                 .then(() => 'speak');
         }
     },
@@ -54,11 +50,8 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-<<<<<<< HEAD
-                    return bot.say(`Oops! I didn't understand that – I can only respond to keywords (a word I've said in all caps).`).then(() => 'speak');
-=======
+
                     return bot.say(`So, I'm good at structured conversations but stickers, emoji and sentences still confuse me. Say 'more' to chat about something else.`).then(() => 'speak');
->>>>>>> refs/remotes/esthercrawford/master
                 }
 
                 var response = scriptRules[upperText];
