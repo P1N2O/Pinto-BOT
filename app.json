@@ -1,10 +1,10 @@
 {
-  "name": "Manuel Pinto - The BOT",
-  "description": "Manuel PInto - The BOT",
+  "name": "Pinto BOT",
+  "description": "Personal Portfolio BOT - Manuel Pinto",
   "keywords": ["manuel", "pinto", "bot"],
-  "website": "http://manuelpinto.in",
-  "repository": "https://github.com/StaticBlaze/Manuel-Pinto-The-BOT",
-  "logo": "http://manuelpinto.in/images/work(manuelpinto-bot).jpg",
+  "website": "https://manuelpinto.in",
+  "repository": "https://github.com/P1N2O/Pinto-BOT",
+  "logo": "https://manuelpinto.in/images/work(manuelpinto-bot).jpg",
   "env": {
     "SMOOCH_APP_TOKEN": {
       "description": "Your Smooch app token which is used to initialize the web widget.",

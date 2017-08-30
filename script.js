@@ -19,7 +19,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Get started by saying BOT.')
+            return bot.say(`Get started with a "Hi" or "Hello".`)
                 .then(() => 'speak');
         }
     },
@@ -51,18 +51,18 @@ module.exports = new Script({
 
                 if (!_.has(scriptRules, upperText)) {
 
-                    return bot.say(`So, I'm good at structured conversations but stickers, emoji and sentences still confuse me. Say 'more' to chat about something else.`).then(() => 'speak');
+                    return bot.say(`Oops! I don't get that.\nI'm good at structured conversations but stickers, emoji and sentences still confuse me.\n\nSay "More" to chat about something else.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
                 var lines = response.split('\n');
 
                 var p = Promise.resolve();
-                _.each(lines, function(line) {
+                _.each(lines, function (line) {
                     line = line.trim();
-                    p = p.then(function() {
+                    p = p.then(function () {
                         console.log(line);
-                        return wait(50).then(function() {
+                        return wait(50).then(function () {
                             return bot.say(line);
                         });
                     });

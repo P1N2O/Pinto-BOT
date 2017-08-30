@@ -1,11 +1,15 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Pinto, a Front End Web Developer from Mysuru.\n![Pinto](https://raw.githubusercontent.com/Pintocrawford/smooch-bot-example/master/img/Pinto.jpg)\nWant to know more about bots or learn about Pinto? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pinto](postback:learn_about_Pinto) %[One random fact!](postback:random_fact)",
+    /* Starters */
+    "HI": "Hi there!\nI’m the personal bot of Manuel Pinto, an UI/UX Designer &amp; Front-End Developer from Bengaluru.\n![Pinto](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/Pinto.jpg)\n\nWant to know more about Static Design or learn about Manuel? %[Tell me more about Static Design Studio](postback:here_for_the_bot) %[I'd like to Learn about Manuel Pinto](postback:learn_about_Pinto) %[A random fact!](postback:random_fact)",
+    "HEY": "Hi there!\nI’m the personal bot of Manuel Pinto, an UI/UX Designer &amp; Front-End Developer from Bengaluru.\n![Pinto](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/Pinto.jpg)\n\nWant to know more about Static Design or learn about Manuel? %[Tell me more about Static Design Studio](postback:here_for_the_bot) %[I'd like to Learn about Manuel Pinto](postback:learn_about_Pinto) %[A random fact!](postback:random_fact)",
+    "HELLO": "Hi there!\nI’m the personal bot of Manuel Pinto, an UI/UX Designer &amp; Front-End Developer from Bengaluru.\n![Pinto](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/Pinto.jpg)\n\nWant to know more about Static Design or learn about Manuel? %[Tell me more about Static Design Studio](postback:here_for_the_bot) %[I'd like to Learn about Manuel Pinto](postback:learn_about_Pinto) %[A random fact!](postback:random_fact)",
+
     "I'M HERE FOR THE BOT": "Ha, I thought so!\nAre you perhaps thinking about building your own bot? %[I'd like to](postback:ID_LIKE_TO) %[Not yet](postback:NOT_YET)",
     "THE BEGINNING": "Ok, welcome back!\nWant to know more about bots or learn about Pinto? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Pinto](postback:learn_about_Pinto) %[One random fact!](postback:random_fact)",
     "I'M READY TO MOVE ON": "No prob. I can tell you a bunch of stuff about Pinto. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'connect' to talk to Pinto. %[Connect with Pinto](postback:connect_me)",
     "I'D LIKE TO": "Cool. If you want, I can email you instructions for creating your own bot for free. %[Awesome](http://Pintobot.us3.list-manage.com/subscribe?u=747676a510e61e338b488bc17&id=b41a573523) %[Nah...](postback:NAH...)",
     "NOT YET": "Hmm… it seems like you’re in research mode. I get that. Here’s an article Pinto wrote about why and how He built me. %[Read Article](https://medium.com/life-learning/how-i-turned-my-resume-into-a-bot-and-how-you-can-too-f03847352baa)\nDid that scratch your itch for bot news? %[More bots!](postback:MORE_BOTS) %[I'm ready to move on](postback:move_on)",
-    "NAH...":  "Ok, no worries.",
+    "NAH...": "Ok, no worries.",
     "MORE BOTS!": "So you've noticed the buzz about bots, AI and messaging interfaces - but why now? Open web advocate Chris Messina breaks it down for you. %[Read Article](https://medium.com/chris-messina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.toes5yfo1)\nOk, so now you know all about #convcomm. %[Talk botty to me](postback:talk-botty) %[Learn about Pinto](postback:learn_about_Pinto)",
     "TALK BOTTY TO ME": "In Silicon Valley there’s a lot of talk about “app fatigue”. People forget about and delete most apps they download.\nMessaging engagement has surpassed social networks thanks to platforms like Messenger, Telegram, Kik and Slack.\n![Messaging Graph](https://raw.githubusercontent.com/Pintocrawford/smooch-bot-example/master/img/messaging-apps.png)\nWhat's your take? %[Bots replace apps](postback:replace) %[Apps get better](postback:betterapps) %[Why not both?](postback:why-not-both)",
     "BOTS REPLACE APPS": "Gotcha. Thanks for sharing with me! %[Learn about Pinto](postback:learn_about_Pinto) %[I'm done for now](postback:done)",
@@ -13,8 +17,9 @@
     "WHY NOT BOTH?": "Gotcha. Thanks for sharing with me! %[Learn about Pinto](postback:learn_about_Pinto) %[I'm done for now](postback:done)",
     "I'M DONE FOR NOW": "If you change your mind feel free to come back! You can always say 'Pinto' to start chatting again.",
     "LEARN ABOUT Pinto": "I can tell you a bunch of stuff about Pinto. Let me know what’s interesting to you. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nWhen you're ready you can always say 'connect' to talk to Pinto. %[Connect with Pinto](postback:connect_me)",
-    "DONE": "Ok, here's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nOr maybe you want interesting nuggets or to talk directly with Pinto... %[One random fact!](postback:random_fact) %[Connect with Pinto](postback:connect_me)",
+    /* Resuming */
     "MORE": "Ok, here's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nOr maybe you want interesting nuggets or to talk directly with Pinto... %[One random fact!](postback:random_fact) %[Connect with Pinto](postback:connect_me)",
+    "DONE": "Ok, here's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nOr maybe you want interesting nuggets or to talk directly with Pinto... %[One random fact!](postback:random_fact) %[Connect with Pinto](postback:connect_me)",
     "MENU": "Ok, here's other stuff to check out. %[Childhood](postback:childhood) %[Education](postback:education) %[Career](postback:career)\nOr maybe you want interesting nuggets or to talk directly with Pinto... %[One random fact!](postback:random_fact) %[Connect with Pinto](postback:connect_me)",
     "CHILDHOOD": "It's an interesting but complicated story.\nHe grew up in California and Oregon. Technically He's the youngest of 10 siblings but most of her childhood was spent living as an only kid with her mom. Btw if you ever want to chat about something else, just say 'more'. %[I want more details](postback:childhood_family)",
     "I WANT MORE DETAILS": "Her parents dated briefly but they split up before He was born.\nHer mom Patricia was recently divorced with 2 kids, and her dad Jim was a recent widower with 5 kids.\nPatricia getting pregnant was definitely not in the plan!\n%[What happened next?](postback:childhood_patricia_move)",
@@ -74,7 +79,7 @@
     "HEY!": "Hi",
     "WOW": ":)",
     "WOW!": ":)",
-    "IT'S OKAY":"Cool",
+    "IT'S OKAY": "Cool",
     "ITS OKAY": "Cool",
     "HAHA": "Hehe",
     "HA": "Ha, indeed!",
@@ -129,5 +134,9 @@
     "#PintoBOT": "That's my hashtag – use it when talking about me on sites like TWITTER. 😎",
     "PintoBOT": "That's my hashtag – use it when talking about me on sites like TWITTER. 😎",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, PintoBot is back."
+    "DISCONNECT": "Roger that, PintoBot is back.",
+    /* Gold/Siver/BTC Rate */
+    "GOLD": "The current Gold Rate is $56 (Rs.22,997)",
+    "GOLD RATE": "The current Gold Rate is $56 (Rs.22,997)",
+    "BTC RATE": "The current BTC Rate is $335 (Rs.3,24,789)",
 }

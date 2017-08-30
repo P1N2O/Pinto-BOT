@@ -1,8 +1,8 @@
 {
   "name": "Manuel-Pinto-BOT-",
   "version": "1.0.0",
-  "description": "Manuel Pinto - The BOT",
-  "author": "Manuel Pinto <m.pinto@live.in> (http://manuelpinto.in)",
+  "description": "Personal Portfolio BOT - Manuel Pinto",
+  "author": "Manuel Pinto <m.pinto@live.in> (https://manuelpinto.in)",
   "scripts": {
     "start": "node heroku"
   },
